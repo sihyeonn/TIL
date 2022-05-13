@@ -2,7 +2,7 @@
 layout: post
 slug: jekyll blog with github pages
 title: "Jekyll Blog with Github Pages"
-category: til
+category: general
 ---
 
 Today, I just started my first blog.
