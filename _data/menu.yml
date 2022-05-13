@@ -4,8 +4,7 @@
 entries:
   - title: my info
     entries:
-      - title: email
-        url: uneedsihyeon@gmail.com
+      - title: "<a href='mailto:uneedsihyeon@gmail.com'>email</a>"
       - title: github
         url: https://github.com/sihyeonn
       - title: linkedin
